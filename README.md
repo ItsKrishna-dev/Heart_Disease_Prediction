@@ -1,5 +1,5 @@
 # Heart_Disease_Prediction
-Dataset Information:
+##Dataset Information:
 The dataset consists of 303 rows and 14 columns with label Target. Data contains categorical as well as continuous data.
 
 Data Cleansing:
