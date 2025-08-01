@@ -56,7 +56,7 @@ The logistic regression model achieves:
 ```
 heart-disease-prediction/
 ├── HeartDiseasePrediction.ipynb    # Main Jupyter notebook
-├── heart_disease_data.csv          # Dataset (not included)
+├── heart_disease_data.csv          # Dataset
 └── README.md                       # Project documentation
 ```
 
